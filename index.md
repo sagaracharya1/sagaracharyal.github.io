@@ -76,7 +76,7 @@ title: "Sagar N | Mainframe & Cloud Engineer"
       <li>Reporting layer on top of BigQuery (dashboards / reports).</li>
     </ul>
     <p>
-      👉 Project link: <em>To be added after creating project repository.</em>
+      👉 Project link: https://github.com/sagaracharyal/mainframe-to-gcp-data-pipeline
     </p>
   </section>
 
