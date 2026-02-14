@@ -5,86 +5,102 @@ title: "Sagar N | Mainframe & Cloud Engineer"
 
 <link rel="stylesheet" href="/assets/style.css">
 
-<div class="card">
+<div class="page-wrapper">
 
-# Sagar N  
-### Mainframe Developer | Production Support | GCP Certified
+  <div class="header">
+    <h1>Sagar N</h1>
+    <h2>Mainframe Developer | Production Support | GCP Certified</h2>
+    <div class="meta">
+      <span>Bengaluru, Karnataka, India</span>
+      <span>Email: <a href="mailto:sagarhhr29@gmail.com">sagarhhr29@gmail.com</a></span>
+      <span>LinkedIn: <a href="https://linkedin.com/in/sagarn95" target="_blank">sagarn95</a></span>
+      <span>GitHub: <a href="https://github.com/sagaracharyal" target="_blank">sagaracharyal</a></span>
+    </div>
+  </div>
 
-Enterprise-grade systems specialist with 3+ years of experience in IBM Mainframe environments, batch processing, and production support. Actively transitioning into Cloud & Data Engineering.
+  <section id="about">
+    <h2>About</h2>
+    <p>
+      Enterprise‑grade systems specialist with <strong>3+ years</strong> of experience in IBM Mainframe
+      environments, batch processing, and production support. Actively transitioning into
+      <strong>Cloud &amp; Data Engineering</strong> while leveraging strong banking and production support experience.
+    </p>
+  </section>
 
-</div>
+  <section id="technical-expertise">
+    <h2>Technical Expertise</h2>
 
-<div class="card">
+    <h3>Mainframe</h3>
+    <ul>
+      <li>JCL, COBOL, DB2, VSAM (KSDS/ESDS)</li>
+      <li>z/OS, ISPF / TSO</li>
+    </ul>
 
-## 🔧 Technical Expertise
+    <h3>Scheduling &amp; Support</h3>
+    <ul>
+      <li>Control‑M, batch monitoring</li>
+      <li>SLA management, incident handling, root cause analysis (RCA)</li>
+    </ul>
 
-**Mainframe**
-- JCL
-- VSAM (KSDS/ESDS)
-- COBOL
-- DB2
-- z/OS
-- ISPF / TSO
+    <h3>Cloud &amp; Data</h3>
+    <ul>
+      <li>Google Cloud Platform (GCP – Associate Cloud Engineer)</li>
+      <li>BigQuery, Cloud Storage</li>
+      <li>ETL concepts, SQL, basic data engineering workflows</li>
+    </ul>
+  </section>
 
-**Scheduling & Support**
-- Control-M
-- Batch Monitoring
-- SLA Management
-- Incident & RCA Handling
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <ul>
+      <li>Developed and optimized JCL for enterprise batch systems in financial environments.</li>
+      <li>Managed high‑priority production incidents and coordinated with cross‑functional teams.</li>
+      <li>Performed root cause analysis for recurring job failures and implemented permanent fixes.</li>
+      <li>Monitored critical workloads via Control‑M and ensured timely completion of batch cycles.</li>
+      <li>Contributed to achieving &gt;99.9% batch stability for banking and financial systems.</li>
+    </ul>
+  </section>
 
-**Cloud & Data**
-- Google Cloud (GCP ACE)
-- BigQuery
-- Cloud Storage
-- ETL Concepts
-- SQL
+  <section id="demo-project">
+    <h2>Demo Project</h2>
 
-</div>
+    <h3>Mainframe to Cloud Data Pipeline</h3>
+    <p>
+      A conceptual enterprise migration project demonstrating how mainframe data flows to the cloud.
+    </p>
+    <ul>
+      <li>VSAM data extraction from mainframe systems.</li>
+      <li>Data transformation and preparation for analytics.</li>
+      <li>Upload to Google Cloud Storage.</li>
+      <li>Ingestion into BigQuery for analytical querying.</li>
+      <li>Reporting layer on top of BigQuery (dashboards / reports).</li>
+    </ul>
+    <p>
+      👉 Project link: <em>To be added after creating project repository.</em>
+    </p>
+  </section>
 
-<div class="card">
+  <section id="certifications">
+    <h2>Certifications</h2>
+    <ul>
+      <li>Google Cloud Associate Cloud Engineer</li>
+      <li>IBM Statistics for Data Science with Python</li>
+    </ul>
+  </section>
 
-## 💼 Professional Experience
-
-- Developed and optimized JCL for enterprise batch systems  
-- Managed high-priority production incidents  
-- Performed root cause analysis for recurring job failures  
-- Monitored critical workloads via Control-M  
-- Ensured 99.9% batch stability in financial systems  
-
-</div>
-
-<div class="card">
-
-## 🚀 Demo Project
-
-### Mainframe to Cloud Data Pipeline
-
-A conceptual enterprise migration project demonstrating:
-
-- VSAM data extraction
-- Data transformation
-- Cloud Storage upload
-- BigQuery ingestion
-- Reporting layer
-
-👉 Project link: (Will add after creating project repo)
-
-</div>
-
-<div class="card">
-
-## 📜 Certifications
-
-- Google Cloud Associate Cloud Engineer  
-- IBM Statistics for Data Science with Python  
-
-</div>
-
-<div class="card">
-
-## 📫 Contact
-
-LinkedIn: https://linkedin.com/in/sagarn95/ 
-Email: sagarhhr29@gmail.com 
+  <section id="contact">
+    <h2>Contact</h2>
+    <p>
+      LinkedIn:
+      <a href="https://linkedin.com/in/sagarn95" target="_blank">
+        https://linkedin.com/in/sagarn95
+      </a>
+      <br>
+      Email:
+      <a href="mailto:sagarhhr29@gmail.com">
+        sagarhhr29@gmail.com
+      </a>
+    </p>
+  </section>
 
 </div>
