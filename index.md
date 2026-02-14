@@ -25,3 +25,7 @@ Mainframe developer with 4 years of experience in JCL, batch processing, product
 
 LinkedIn: https://www.linkedin.com/in/sagarn95/  
 Email: sagarhhr29@gmail.com
+
+---
+<link rel="stylesheet" href="/assets/style.css">
+---
